@@ -1,9 +1,9 @@
 #inlcude "main.h"
 /**
 *mempcy -is a function that copies a memory area
-@dest: pointer to destination array where content is copied to
-@src: pointer to source data to be copied
-@n: number of bytes to be copied
+*@dest: pointer to destination array where content is copied to
+*@src: pointer to source data to be copied
+*@n: number of bytes to be copied
 *
 *return: copied memory with n bytes changed
 */
